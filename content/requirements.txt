@@ -43,5 +43,5 @@ ipyleaflet
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
-# Python:requests (optional)
+# Python: requests (optional)
 requests
