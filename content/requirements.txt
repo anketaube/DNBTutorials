@@ -43,5 +43,38 @@ ipyleaflet
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
-# Python: requests (optional)
+# Python: libraries
+lxml
 requests
+pandas
+xlrd
+xlsxwriter
+SPARQLWrapper
+sickle
+pymods
+polymatheia>=0.1.1,<0.2.0
+scipy
+seaborn
+bs4
+essentia
+streamlit
+numpy 
+nbserverproxy
+streamlit
+wget
+ipywidgets
+tqdm
+voila
+matplotlib
+jupyterlab
+nltk
+ipython
+librosa
+PyPDF2
+selenium
+webdriver_manager
+msedge-selenium-tools
+WordCloud
+Image
+
+
