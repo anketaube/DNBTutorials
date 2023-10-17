@@ -44,10 +44,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 
-# add the datetime theme
-datetime
+
 # add the requests theme
 requests
-# add the pandas theme
-pandas
+
 
